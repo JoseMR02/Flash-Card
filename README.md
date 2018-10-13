@@ -4,7 +4,8 @@
 The perfect flash card app for all your trivia needs.
 
 ### App Walk-though
-https://i.imgur.com/4toyuTu.gif
+
+<img src="https://i.imgur.com/4toyuTu.gif" width=200><br>
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
